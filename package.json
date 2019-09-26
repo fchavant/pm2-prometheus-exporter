@@ -4,12 +4,12 @@
   "description": "PM2 metric exporter for Prometheus",
   "main": "exporter.js",
   "dependencies": {
-    "pm2": "^2.4.2",
-    "prom-client": "^7.1.0"
+    "pm2": "^3.5.0",
+    "prom-client": "^11.5.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tgmproject/pm2-prometheus-exporter.git"
+    "url": "https://github.com/fchavant/pm2-prometheus-exporter.git"
   },
   "config": {
     "conf_var_1": true,
